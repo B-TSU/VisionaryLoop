@@ -1,0 +1,37 @@
+# === Lens Studio ===
+*.tmp
+*.log
+SpectaclesMedia/
+Support/
+Cache/
+PluginsUserPreferences/
+_build/
+_output/
+.cache/
+
+# === TypeScript / Node.js ===
+node_modules/
+dist/
+build/
+*.tsbuildinfo
+package-lock.json
+yarn.lock
+.env
+.env.*
+
+# === System / IDE files ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp
+
+# === Java / Gradle (if ever used) ===
+*.class
+*.jar
+*.war
+.gradle/
+target/
+out/
