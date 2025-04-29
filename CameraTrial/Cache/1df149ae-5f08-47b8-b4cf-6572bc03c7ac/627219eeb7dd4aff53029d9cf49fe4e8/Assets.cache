@@ -263,7 +263,7 @@
   VersionMajor: 1
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 82e9b12c-b4bc-4bc8-bece-e7f0517bec35
+  ComponentUid: 40693d93-621a-4844-8761-eafd54360c04
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -308,7 +308,7 @@
   VersionMajor: 1
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 5e8d2aeb-19a4-42a3-92cc-4c77e1952616
+  ComponentUid: ed8ed9f0-12c3-4e39-ab1b-fc349f9cd07f
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
@@ -656,7 +656,7 @@
   VersionMajor: 0
   VersionMinor: 0
   VersionPatch: 0
-  ComponentUid: 6fc39fd5-9ba5-4eb2-838c-7b94a0eb270f
+  ComponentUid: 45fbf033-26d9-4ddc-ba2b-b09a113210af
   ExportUid: 00000000-0000-0000-0000-000000000000
   CurrentVisibility: Editable
   MaxVisibility: Editable
